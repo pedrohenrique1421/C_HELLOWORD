@@ -7,12 +7,16 @@ int main (){
     float c;
     printf("Funcionando \n");
 
-    printf("Enter an integer: ");
+    printf("Digite um numero float: ");
     scanf("%f", &a);
 
     c = b + a;
 
     printf("\n Output: %f", c);
+
+    printf("\n");
+
+    system("pause");
 
     return 0;
 };
