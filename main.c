@@ -12,7 +12,7 @@ int main (){
 
     c = b + a;
 
-    printf("\n Output: %f", c);
+    printf("\n Output: %.2f", c);
 
     printf("\n");
 
